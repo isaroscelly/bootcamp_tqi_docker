@@ -5,4 +5,4 @@ services:
     ports:
       - "80:80"
     volumes:
-      - /home/johnatan/Desktop/isabella/dio/:/usr/local/apache2/htdocs
+      - /home/johnatan/Desktop/isabella/dio/bootcamp_tqi_docker/:/usr/local/apache2/htdocs
